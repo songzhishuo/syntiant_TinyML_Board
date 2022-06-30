@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ei_model_types.h": "c",
+        "model_metadata.h": "c"
+    }
+}
